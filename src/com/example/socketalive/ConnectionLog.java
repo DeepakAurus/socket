@@ -18,6 +18,7 @@ public class ConnectionLog
         private static final SimpleDateFormat TIMESTAMP_FMT = 
           new SimpleDateFormat("[HH:mm:ss] ");
 
+
         public ConnectionLog()
           throws IOException
         {
